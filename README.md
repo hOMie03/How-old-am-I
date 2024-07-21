@@ -10,5 +10,7 @@
   - Next.js
   - TypeScript
   - HTML/CSS/JS
+  - Node.js
+  - Google Font API
 </div>
 Inspired by <a href="https://github.com/98mohitkumar">Mohit Kumar</a>'s "<a href="https://github.com/98mohitkumar/How-old-am-i">How old am i ?</a>". Do leave a feedback if you like this project!
